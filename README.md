@@ -1,4 +1,4 @@
-# Gatling Assignment
+# Gatling Assignment using Scala in SBT Build tool
 
 This repository contains a Gatling load testing project for the assignment.
 
