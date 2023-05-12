@@ -1,2 +1,0 @@
-# GatlingAssignment
-Gatling-Assignments
